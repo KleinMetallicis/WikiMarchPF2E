@@ -9,5 +9,3 @@ Se sabe que hace prestamos, pero si no son pagados en una cantidad de ciclos def
 De la vida personal del Vagabundo se sabe muy poco, pues hace pocos amigos en los lugares que visita. 
 Tiene una hija a quien menciona de vez en cuando, al parecer trabaja en los talleres del Salón. No hay registros de que alguien haya logrado pasar por el ojo vigilante del Vagabundo para conocer a su hija.
 Tuvo una esposa, pero no la menciona ni se la ha visto en al menos 200 años. 
-
-## Lore no conocido (Spoilers jugadores)
