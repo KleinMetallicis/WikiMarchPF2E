@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "e73aaca6f801d978",
+    "type": "split",
+    "children": [
+      {
+        "id": "76a6a166ec1edfe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb4c14ffface7ce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Wanderer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c34c93062bc4f54e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7eb3f6f1f0dbc041",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7053d649fdc475dd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b12dea3474b15997",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b76964322a98b5fa",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "22b53f2b8e26bff1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ef69d1913e389748",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "The Wanderer.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6fbde26846bf5602",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "The Wanderer.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bc07fbc7bf210cb3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "The Wanderer.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7eb3f6f1f0dbc041",
+  "lastOpenFiles": [
+    "Hall of the Wanderer.md",
+    "Enarkis.md",
+    "The Wanderer.md"
+  ]
+}
