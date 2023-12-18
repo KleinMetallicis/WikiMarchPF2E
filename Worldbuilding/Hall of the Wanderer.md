@@ -1,1 +1,1 @@
-[[The Wanderer]] 
+[The Wanderer](The Wanderer.md)
