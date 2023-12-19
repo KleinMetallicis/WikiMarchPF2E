@@ -5,7 +5,7 @@
 |**Personal Data:**<br> Name: ??? <br> Known as: The Wanderer<br> Race: Goblin<br> Age: ???<br> Origin: ???<br>|
 |**Places of interest:**<br> [Hall of the Wanderer](..\Places\Hall_of_the_Wanderer.md)|
 
-El Vagabundo (The Wanderer) es un goblin de aparente mediana edad, con un ojo para los negocios y una personalidad avara. Busca la riqueza en todo lugar que se encuentra, casi siempre llevado por su tienda, "[Salón del Vagabundo](..\Places\Hall_of_the_Wanderer.md)", que es una Sala Vagabunda que se mueve de manera especialmente errática, aunque en la mayoría de los casos vuelve a pasar por [Enarkis](..\Places\Enarkis.md) en a lo más un mes.
+El Vagabundo (The Wanderer) es un goblin de aparente mediana edad, con un ojo para los negocios y una personalidad avara. Busca la riqueza en todo lugar que se encuentra, casi siempre llevado por su tienda, "[Salón del Vagabundo](..\Places\Hall_of_the_Wanderer.md)", que es una Sala Vagabunda que se mueve de manera especialmente errática, aunque en la mayoría de los casos vuelve a pasar por [Enarxis](..\Places\Enarkis.md) en a lo más un mes.
 
  Su vida es mayoritariamente un misterio para la gente, los elfos dicen que al menos en los últimos 2000 años no ha cambiado de nombre ni apariencia, por lo que estiman que es inmortal de alguna manera, pero esa manera también es un misterio.
  
