@@ -1,6 +1,6 @@
 # The Wanderer
 
-|![The Wanderer](https://cdnb.artstation.com/p/assets/images/images/023/861/713/small/inka-schulz-dnd-goblin.jpg?1580578232\|50%)|
+|![The Wanderer](https://cdnb.artstation.com/p/assets/images/images/023/861/713/small/inka-schulz-dnd-goblin.jpg?1580578232\|width=50%)|
 |:---|
 |**Personal Data:**<br> Name: ??? <br> Known as: The Wanderer<br> Race: Goblin<br> Age: ???<br> Origin: ???<br>|
 |**Places of interest:**<br> [Hall of the Wanderer](..\Places\Hall_of_the_Wanderer.md)|
