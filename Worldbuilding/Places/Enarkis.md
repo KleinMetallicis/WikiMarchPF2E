@@ -1,7 +1,7 @@
 # Enarxis
 
 
-|![Enarxis map](https://i.imgur.com/ADK811b.jpeg)|
+|<img src="https://i.imgur.com/ADK811b.jpeg" alt="Enarxis map" width=300>|
 |:---|
 |Nombre: Enarxis<br> Población: ~2.000.000<br> Tipo de sala: Estática<br> Bioma: Variado<br>Dimensiones:x*x km^2^|
 
